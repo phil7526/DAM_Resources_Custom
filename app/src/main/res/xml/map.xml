@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<map name="map_films">
+    <entry titre="box" commentaire="Ceci est un commentaire">
+
+    </entry>
+    <entry titre="Les bulles" commentaire="Les bulles pétillent">
+
+    </entry>
+</map>
+</resources>
